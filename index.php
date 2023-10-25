@@ -50,7 +50,7 @@
     <h1>Ubah Gambar</h1>
     <div class="wrapper">
         <form method="POST" action="">
-            <p><small><i>Tulis Teks <b>"Aku"</b> atau <b>"Dia"</b></i></small></p>
+            <p><small><i>Tulis Teks <b>"Aku"</b> atau <b>"Kamu"</b></i></small></p>
             <hr>
             <label for="teks">Masukkan teks: </label>
             <input type="text" name="teks" id="teks" placeholder="Ketik teks" required>
